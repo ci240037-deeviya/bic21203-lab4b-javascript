@@ -37,9 +37,5 @@ The jquery-dom.html webpage uses jQuery to change text, add a CSS class and hand
 
 ![Q3 Output](screenshots/Q3-output.png)
 
-## Repository Link
-
-Repository link: 
-
 ## Reflection
 Through this lab, I learned how to organise data using JSON and retrieve it with JavaScript fetch(). I also learned how to access JSON objects and display their information on a webpage. In addition, I practised using jQuery to change text, apply CSS classes and handle button clicks. This lab helped me understand the differences between native JavaScript and jQuery.
